@@ -1,2 +1,0 @@
-Git Tutorial
-Create new online repository using GitHub.
